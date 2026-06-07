@@ -1,0 +1,10 @@
+the alarm is set
+the alarm is disabled
+emergency switch is disabled
+the system is armed
+the system is disabled
+alarm is triggered
+emergency alarm is set
+the switch is off
+the switch is on
+system alarm is active

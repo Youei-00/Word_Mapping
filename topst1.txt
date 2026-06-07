@@ -1,0 +1,96 @@
+Conversation with Topstep
+Started on December 11, 2025 at 06:48 PM Central Time (US & Canada) time CST (GMT-0600)
+
+--- December 11, 2025 ---
+
+06:48 PM | Youssef Omer: Hello, I was in the middle of trading when I got logged out of the platform midtrade
+
+06:48 PM | Windy: I understand this is frustrating, and I apologize. I am going to work through this with you to find a suitable solution. 
+ Getting logged out mid-trade can happen for a few reasons. Can you confirm which trading platform you're using (for example, TopstepX, Tradovate, or a Rithmic-based platform)? (https://help.topstep.com/en/articles/8284136-general-trading-platform-troubleshooting) 
+ In the meantime, here are some common causes: 
+ Multiple sessions - You can only be logged in on one device at a time. If you tried logging in elsewhere, it would disconnect your current session. (https://help.topstep.com/en/articles/8524249-topstepx-faqs) 
+ Internet connection issues - Even brief WiFi drops can cause logouts. We recommend using a hardwired connection when possible. 
+ Browser/cache issues - Try clearing your browser cache and cookies, then log back in. 
+ Once you confirm your platform, I can provide more specific troubleshooting steps to prevent this from happening again. 
+ 
+Sources:
+General Trading Platform Troubleshooting (https://help.topstep.com/en/articles/8284136-general-trading-platform-troubleshooting)
+TopstepX™ FAQs (https://help.topstep.com/en/articles/8524249-topstepx-faqs)
+
+06:50 PM | Youssef Omer: Project x, I got my express account branded as ineligible because I was having connectivity issues mid trade and didn't have the opportunity to place a stop loss or take profit
+
+06:51 PM | Windy: I understand how frustrating this must be. Unfortunately, we don't offer courtesy adjustments for connectivity issues like internet instability, as this falls outside our control. 
+ However, you have options. Since your Express Funded Account became ineligible, you can use Back2Funded to reactivate it up to 2 times. You have 7 days from when your account closed to decide. (https://help.topstep.com/en/articles/12060405-back2funded-rules-guidelines-and-how-it-works) This keeps the same account size and payout policy, so you can continue trading toward a payout without starting over in the Trading Combine. (https://help.topstep.com/en/articles/8284216-express-funded-account-live-funded-account-faq-s) 
+ If you want our team to review your specific situation, you can reach out with your account name, Order IDs, and detailed explanation of what happened, along with screenshots. Would you like me to connect you with our Trader Support Team to discuss your options? 
+ 
+Sources:
+Back2Funded: Rules, Guidelines, and How It Works (https://help.topstep.com/en/articles/12060405-back2funded-rules-guidelines-and-how-it-works)
+Express Funded Account & Live Funded Account FAQ's (https://help.topstep.com/en/articles/8284216-express-funded-account-live-funded-account-faq-s)
+
+06:55 PM | Youssef Omer: EXPRESS-V2-86709-66160928
+I lost connectivity mid trade and i believe my rp at the time was around 1400
+
+06:55 PM | Windy: If you still need help with your Express Funded Account or have questions about reactivation options, I’m here to assist. Would you like to provide more details about what you’re trying to resolve so we can continue?
+
+06:55 PM | Windy: Unfortunately, we don't offer courtesy adjustments for connectivity issues like internet instability, as this falls outside our control. 
+ However, since your Express Funded Account became ineligible, you can use Back2Funded to reactivate it up to 2 times. You have 7 days from when your account closed to decide. (https://help.topstep.com/en/articles/12060405-back2funded-rules-guidelines-and-how-it-works) This keeps the same account size and payout policy. 
+ If you want our team to review your specific situation with account EXPRESS-V2-86709-66160928, you can provide your Order IDs and detailed explanation of what happened, along with screenshots. Would you like me to connect you with our Trader Support Team to discuss your options? 
+ 
+Source:
+Back2Funded: Rules, Guidelines, and How It Works (https://help.topstep.com/en/articles/12060405-back2funded-rules-guidelines-and-how-it-works)
+
+06:55 PM | Youssef Omer: yes
+
+06:55 PM | Windy: I’m connecting you to one of our human agents now who can assist you further.
+
+06:55 PM | Windy: Thank you for getting in touch, Youssef! Your message has been sent to the team. 
+​
+So we can help you as quickly as possible, please respond to this email with the following information, if applicable:
+​
+1. Trading Combine or Express Funded Account Number 
+ 2. Which trading platform you're using 
+ If you have any additional details, screenshots, or recordings, please share them now. Providing as much information to our team now will result in a quicker resolution.
+
+06:56 PM | Youssef Omer: when I logged back into my account, i received the "express ineligible" message
+
+06:56 PM | Windy: You’ll get replies here and in your email:
+✉️ omeryoussef255@gmail.com 
+ Our usual reply time
+🕒 2 days
+
+06:56 PM | Youssef Omer: my express account id is: EXPRESS-V2-86709-66160928
+
+07:08 PM | Youssef Omer: this has been an ongoing issue that i've been dealing with ever since i purchased my now passed funded account on 12/10/2025. I even confirmed that the connectivity issue isn't from my wifi as I had the same issue as well when I used a mobile hotspot as well as work wifi to connect to the charts
+
+07:09 PM | Youssef Omer: I often times keep getting disconnected or my chart would randomly disappear in which I can't see the candles on any time frame
+
+07:11 PM | Youssef Omer: I'm not asking for a full reset to all losses for this trading day. I'm asking for the trades that I had 0 control over to be waived from my Express account's balance and rpl
+
+07:15 PM | Youssef Omer: as I mentioned previously, the last trade i took (1778850155) left my account balance at around negative 1300 to 1400.
+
+07:18 PM | Youssef Omer: And after communicating with other community members, many of them also had similar problems at around the same time that I'm requesting for
+
+07:24 PM | Youssef Omer: [Image "image.png?expires=1765747800&signature=e5de9e61dd2fbca244782811ad456b37506886c3c08b0650605a6eb3343fe17c&req=dSgvFsl5m4BbWPMW1HO4zTtrEqpvWKUf3goQuDvznGXFJAsQnl0ks8kw4KTp%0A1GzODIXOO%2Fe08JtpJE0%3D%0A"] I don't think I need to say anything else. I hope to see my issues resolved as soon as possible, my express reactivated, and the trades for this trading day to be waived from it's balance.
+
+--- December 12, 2025 ---
+
+01:25 AM | Blake from Topstep: Hi Youssef,
+﻿​﻿
+﻿Thanks for reaching out to Topstep. I'm Blake, here to help out today. Thank you for that explanation! Can you share a screenshot or screen recording of what you’re seeing? A visual can help me understand what’s happening better so I can help you fix it. I look forward to hearing back from you soon! 
+ 
+ Blake
+
+05:24 AM | Youssef Omer: that would be difficult to do since the issue that I, along with many others faced this time, was an outage/crash. I wasn’t recording the trading session at the time so I don’t have much photos or video to show regarding this. I witnessed many ambassadors as well as even moderators address the issue and they recommended me to contact support
+
+09:01 AM | Youssef Omer: I don’t understand why i need to go through all these procedures when many others experienced these same problems during market open and even moderators have admitted that our complaints were valid. This isn’t the first time this happened nor do i expect it to be the last. I have been with this firm for almost nearly 2-3 years despite all the problems i’ve faced. During the outage from 2 weeks ago as well, I lost multiple evaluation accounts but the support team only refunded me for one of them despite confirming that I lost them during the time in which ProjectX was down. I have brought up this issue with moderators and ambassadors in the discord and despite agreeing with my concerns, the only thing they could do was forward me to the Support Team.
+
+09:02 AM | Youssef Omer: Please fix these issues that i’m dealing with, they make my trading experience extremely unfair as a trader.
+
+06:38 PM | Youssef Omer: Hello, I still haven't received any updates
+
+06:38 PM | Youssef Omer: on my current situation
+
+06:40 PM | Youssef Omer: I contacted discord support for topstep and they said to contact the topstep support here on the website
+
+---
+Exported from Topstep on December 14, 2025 at 02:56 PM Central Time (US & Canada) time CST (GMT-0600)
